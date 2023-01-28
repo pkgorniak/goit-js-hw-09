@@ -1,3 +1,5 @@
+'use strict';
+
 import Notiflix from 'notiflix';
 
 const firstDelay = document.querySelector('[name="delay"]');
